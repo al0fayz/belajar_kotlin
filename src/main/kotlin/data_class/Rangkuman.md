@@ -1,0 +1,3 @@
+- Data class merupakan sebuah kelas sederhana yang bisa berperan sebagai data container.
+- Data class adalah kelas yang bisa disebut spesial karena kita tidak perlu menentukkan nilai dari fungsi toString(), equals(), dan hashCode() ketika digunakan.
+- Data class juga menyediakan fungsi copy() yang memudahkan kita untuk menyalin instance dari data class yang sudah dibuat.
